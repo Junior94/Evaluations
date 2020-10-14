@@ -1,12 +1,12 @@
 # Evaluation
 
-Context 
+## Context 
 
 Vous devez rendre l’intégralité des exercices dans une repertoire github public. Chaque exercice devra comprendre ses fichiers index.js et son index.html. Vous devrez me le remettre sur Slack via le document qui vous sera fournis. Chaque exercice devra être dans un sous-dossier avec comme nom “exercice-1”, “exercice-2” … (pour chaque exercice).
 
 La date du rendu est fixée au lundi 14 octobre à 23h42. Si l’évaluation n’est pas rendu à l’heure sur Slack vous aurez “0”. Vous devez bien entendu essayer de réaliser l’intégralité des exercices. La totalité de cette évaluation est notée sur “20”.
 
-Exercises
+## Exercises
 
 1. Créer une fonction “gridGenerator” prenant les arguments “xAxis” et “yAxis”. Vous devez générer une matrice en “table” html de x * y. Vous devrez colorer aléatoirement chaque case de la grille d’une couleur différente toutes les “1s” à “2s”.
 
